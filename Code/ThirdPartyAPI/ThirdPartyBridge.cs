@@ -172,7 +172,7 @@ namespace Ada.ThirdParty.Plugins
 #endif
         }
 
-#if UNITY_EDITOR_RUN
+#if UNITY_EDITOR
 
         private static void SendCustomCommand(int InCommandType, string InJsonData)
         {
