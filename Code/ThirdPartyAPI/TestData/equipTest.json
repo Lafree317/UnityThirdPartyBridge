@@ -1,0 +1,33 @@
+{
+	"characterId": 1,
+	"hair": 1101005,
+	"makeup": 1200012,
+	"upperBody": [
+		0,
+		0,
+		700154,
+		500025
+	],
+	"lowerBody": [
+		1000034,
+		300013,
+		700154,
+		0
+	],
+	"putLayer": [
+		false,
+		false,
+		false,
+		false
+	],
+	"underUpper": 600005,
+	"underLower": 600020,
+	"shoes": 900101,
+	"hat": 1300007,
+	"bracelet": 0,
+	"earrings": 0,
+	"glasses": 1500002,
+	"necklace": 0,
+	"ring": 0,
+	"bag": 2000040
+}

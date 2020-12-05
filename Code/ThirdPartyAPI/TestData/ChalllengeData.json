@@ -1,0 +1,25 @@
+{
+	"id": "1",
+	"gender_type": "Male",
+	"add_score_stylecode_type": "STYLECODE_CASUAL",
+	"add_score_stylecode_value": 1,
+	"challenge_title": "2020虚拟T台挑战赛",
+	"challenge_infodesc": "选择心仪的单品完成穿搭，保存LOOK后点击“去走秀”生成个人时装秀（每次最多可保存3套造型）。",
+	"term_data": [
+		{
+			"title": "新款服装",
+			"term_value": "1",
+			"mission_tag": [
+				"CUSTOMTAG_NEW_PARTS"
+			]
+		},
+		{
+			"title": "新款配饰",
+			"term_value": "1",
+			"mission_tag": [
+				"CUSTOMTAG_NEW_ACCESSORY"
+			]
+		}
+	],
+	"challenge_studio_id": 100001
+}
